@@ -1,11 +1,8 @@
 {
-    "tokens": [
-        "7266431869:AAE8IaTNhgqkOI6JQ6T4g5QeCbt7NFMT_po",
-        "TOKEN_BOT_2",
-        "TOKEN_BOT_3"
+    "allowedNumbers": [
+        "6281234567890",
+        "6289876543210"
     ],
-    "owners": [
-        "7121039571",
-        "0987654321"
-    ]
+    "blacklist": [],
+    "failedAttempts": {}
 }
