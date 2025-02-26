@@ -1,12 +1,6 @@
 {
-    "allowedBots": {
-        "7266431869:AAE8IaTNhgkOI6JQ6T4g5QeCbt7NFMT_po": {
-            "adminId": "712103957"
-        },
-        "1234567890:ABCDefghIJKLMNoPQRstUVWXYz123456789": {
-            "adminId": "6289876543210"
-        }
-    },
-    "blacklist": [],
-    "failedAttempts": {}
+    "allowedTokens": [
+        "123456789:ABCDefghIJKLMNoPQRstUVWXYz123456789",
+        "7266431869:AAE8IaTNhgkOI6JQ6T4g5QeCbt7NFMT_po"
+    ]
 }
